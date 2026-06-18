@@ -1,4 +1,4 @@
-# OpenGizmo 🚀
+<h1 align="center">OpenGizmo 🚀</h1>
 
 <p align="center">
 	<strong>Simple but cool open source projects built with ESP32.</strong><br>
@@ -6,13 +6,18 @@
 </p>
 
 <p align="center">
-	<a href="#what-is-opengizmo">What is OpenGizmo?</a> ·
-	<a href="#what-youll-find">What you’ll find</a> ·
-	<a href="#get-involved">Get involved</a>
+	<a href="#about">What is OpenGizmo?</a> ·
+	<a href="#projects">What You’ll Find</a> ·
+	<a href="#esp32">Why ESP32?</a> ·
+	<a href="#vibe">Featured Vibe</a> ·
+	<a href="#contribute">Get Involved</a>
+	<a href="#values">Community Values</a> ·
+	<a href="#tuned">Stay Tuned</a>
 </p>
 
 ---
 
+<a id="about"></a>
 ## 🌟 What is OpenGizmo?
 
 OpenGizmo is a portal for small, practical, and genuinely fun ESP32 projects. We focus on open source ideas that are approachable enough to build on a weekend, yet useful enough to keep around.
@@ -24,18 +29,21 @@ Think of it as a home for:
 - Sensors, displays, and controllers
 - Community-built experiments that are easy to fork, improve, and share
 
-## 🔍 What you’ll find
+<a id="projects"></a>
+## 🔍 What You’ll Find
 
 - Clean, reusable project code
 - Hardware-focused tutorials and notes
 - Project ideas that balance usefulness and creativity
 - Community contributions from people who like building things that actually work
 
+<a id="esp32"></a>
 ## ⚡ Why ESP32?
 
 Because it is affordable, flexible, and perfect for turning small ideas into real devices. Wi-Fi, Bluetooth, low power options, and a huge maker ecosystem make it a great base for compact open source projects.
 
-## 🎛️ Featured vibe
+<a id="vibe"></a>
+## 🎛️ Featured Vibe
 
 OpenGizmo projects are usually:
 
@@ -44,7 +52,8 @@ OpenGizmo projects are usually:
 - Useful in the real world
 - Open for remixing and improvement
 
-## 🤝 Get involved
+<a id="contribute"></a>
+## 🤝 Get Involved
 
 We welcome contributions of all kinds:
 
@@ -56,7 +65,8 @@ We welcome contributions of all kinds:
 
 If you want to help shape the ecosystem, start by exploring the projects, opening an issue, or sharing your own ESP32 build.
 
-## 💡 Community values
+<a id="values"></a>
+## 💡 Community Values
 
 - Keep it simple
 - Share the source
@@ -64,7 +74,8 @@ If you want to help shape the ecosystem, start by exploring the projects, openin
 - Build things people can actually use
 - Have fun doing it ✨
 
-## 📡 Stay tuned
+<a id="tuned"></a>
+## 📡 Stay Tuned
 
 More OpenGizmo projects, demos, and community links will live here as the organization grows.
 
