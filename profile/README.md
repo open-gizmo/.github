@@ -1,84 +1,119 @@
-<h1 align="center">OpenGizmo 🚀</h1>
+<div align="center">
 
-<p align="center">
-	<strong>Simple but cool open source projects built with ESP32.</strong><br>
-	A GitHub organization and community for makers, tinkerers, and hardware hackers.
+# OpenGizmo 🚀
+
+### Open hardware projects with a practical streak
+
+A small corner of the internet for ESP32 builds that are useful, remixable, and actually fun to put on a desk, wall, or workbench.
+
+<p>
+	<a href="https://opengizmo.dev"><img alt="Website" src="https://img.shields.io/badge/website-opengizmo.dev-111111?logo=googlechrome&logoColor=white"></a>
+	<img alt="ESP32" src="https://img.shields.io/badge/esp32-ESP32-E7352C?logo=espressif&logoColor=white">
+	<img alt="PlatformIO" src="https://img.shields.io/badge/platformio-PlatformIO-FF6B35?logo=platformio&logoColor=white">
+	<img alt="Arduino" src="https://img.shields.io/badge/framework-Arduino-00979D?logo=arduino&logoColor=white">
+	<img alt="License MIT" src="https://img.shields.io/badge/license-MIT-2563EB">
 </p>
 
-<p align="center">
-	<a href="#about">What is OpenGizmo?</a> ·
-	<a href="#projects">What You’ll Find</a> ·
-	<a href="#esp32">Why ESP32?</a> ·
-	<a href="#vibe">Featured Vibe</a> ·
-	<a href="#contribute">Get Involved</a>
-	<a href="#values">Community Values</a> ·
-	<a href="#tuned">Stay Tuned</a>
+<p>
+	<a href="https://opengizmo.dev"><strong>Visit opengizmo.dev</strong></a>
 </p>
+
+<p>
+	⚡ ESP32-first builds • 🔧 Maker-friendly code • 📡 Connected devices • 🧠 Useful experiments • 🌍 Open source by default
+</p>
+
+<p>
+	<a href="#what-is-opengizmo"><strong>🌟 What is OpenGizmo?</strong></a> •
+	<a href="#what-lives-here"><strong>🔍 What Lives Here</strong></a> •
+	<a href="#why-esp32"><strong>⚡ Why ESP32?</strong></a> •
+	<a href="#project-dna"><strong>🎛️ Project DNA</strong></a> •
+	<a href="#contribute"><strong>🤝 Contribute</strong></a> •
+	<a href="#values"><strong>💡 Values</strong></a> •
+	<a href="#whats-next"><strong>📡 What's Next</strong></a>
+</p>
+
+</div>
 
 ---
 
-<a id="about"></a>
+<a id="what-is-opengizmo"></a>
 ## 🌟 What is OpenGizmo?
 
-OpenGizmo is a portal for small, practical, and genuinely fun ESP32 projects. We focus on open source ideas that are approachable enough to build on a weekend, yet useful enough to keep around.
+OpenGizmo is a home for compact open source hardware projects built around the ESP32 ecosystem. The goal is simple: publish projects that are approachable enough to build in a weekend and solid enough to keep using after the novelty wears off.
 
-Think of it as a home for:
+This is where you can expect:
 
-- Tiny connected gadgets
-- Smart home tools
-- Sensors, displays, and controllers
-- Community-built experiments that are easy to fork, improve, and share
+- Connected gadgets with a clear purpose
+- Sensors, displays, and controllers that solve small real problems
+- Buildable ideas that are easy to fork, tweak, and improve
+- Documentation that respects the time of the person reading it
 
-<a id="projects"></a>
-## 🔍 What You’ll Find
+<a id="what-lives-here"></a>
+## 🔍 What Lives Here
 
-- Clean, reusable project code
-- Hardware-focused tutorials and notes
-- Project ideas that balance usefulness and creativity
-- Community contributions from people who like building things that actually work
+OpenGizmo leans toward projects that feel good in the hands of makers:
 
-<a id="esp32"></a>
+- Reusable firmware and hardware experiments
+- Clean codebases that are easier to understand than they are flashy
+- Build notes, setup tips, and practical documentation
+- Ideas that sit somewhere between utility, curiosity, and desk-toy energy
+
+> Less vapor. More blinking lights, useful sensors, and things you can actually wire up.
+
+<a id="why-esp32"></a>
 ## ⚡ Why ESP32?
 
-Because it is affordable, flexible, and perfect for turning small ideas into real devices. Wi-Fi, Bluetooth, low power options, and a huge maker ecosystem make it a great base for compact open source projects.
+Because it hits the sweet spot for modern maker projects. It is affordable, flexible, well-supported, and powerful enough to handle connected hardware without turning every build into a science project.
 
-<a id="vibe"></a>
-## 🎛️ Featured Vibe
+ESP32 makes sense when you want:
 
-OpenGizmo projects are usually:
+- Wi-Fi and Bluetooth in one tiny board
+- Enough performance for real interfaces and automation
+- Low-cost hardware that is easy to source
+- A huge community and a mature toolchain
+
+<a id="project-dna"></a>
+## 🎛️ Project DNA
+
+If a project fits here, it usually tries to be:
 
 - Simple to understand
-- Fun to build
+- Satisfying to build
 - Useful in the real world
-- Open for remixing and improvement
+- Easy to remix without fighting the codebase
+
+The best OpenGizmo projects are the ones that make you think, "I could build that tonight," and then still feel worth keeping around a month later.
 
 <a id="contribute"></a>
-## 🤝 Get Involved
+## 🤝 Contribute
 
-We welcome contributions of all kinds:
+Contributions do not need to be huge to be valuable. OpenGizmo grows through practical improvements and shared experiments.
 
-- Ideas for new projects
-- Bug fixes and improvements
-- Documentation edits
-- Hardware notes, photos, and build tips
-- Community feedback and feature requests
+Useful contributions include:
 
-If you want to help shape the ecosystem, start by exploring the projects, opening an issue, or sharing your own ESP32 build.
+- New project ideas
+- Bug fixes and code improvements
+- Documentation cleanups
+- Wiring notes, photos, and build tips
+- Feedback from people who tried building something for real
+
+If you want to help shape the direction, start by exploring the projects, opening an issue, or sharing something you built.
 
 <a id="values"></a>
-## 💡 Community Values
+## 💡 Values
 
-- Keep it simple
+- Keep it understandable
 - Share the source
 - Document what matters
 - Build things people can actually use
-- Have fun doing it ✨
+- Leave room for play
 
-<a id="tuned"></a>
-## 📡 Stay Tuned
+<a id="whats-next"></a>
+## 📡 What's Next
 
-More OpenGizmo projects, demos, and community links will live here as the organization grows.
+More projects, experiments, and maker-friendly resources will land here as the collection grows. Expect a mix of firmware, connected hardware, practical automations, and small builds with personality.
 
 <p align="center">
-	<strong>Open source. ESP32 powered. Made for makers. 🔧</strong>
+	<strong>Open source hardware, built with intent.</strong><br>
+	<sub>ESP32 powered. Maker approved. Easy to remix.</sub>
 </p>
