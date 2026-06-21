@@ -1,6 +1,8 @@
 <div align="center">
 
-# OpenGizmo 🚀
+<p>
+	<img src="images/open-gizmo-logo-with-text.min.png" alt="OpenGizmo" width="420">
+</p>
 
 ### Open hardware projects with a practical streak
 
