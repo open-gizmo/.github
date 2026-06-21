@@ -23,13 +23,13 @@ A small corner of the internet for ESP32 builds that are useful, remixable, and 
 </p>
 
 <p>
-	<a href="#what-is-opengizmo"><strong>🌟 What is OpenGizmo?</strong></a> •
-	<a href="#what-lives-here"><strong>🔍 What Lives Here</strong></a> •
-	<a href="#why-esp32"><strong>⚡ Why ESP32?</strong></a> •
-	<a href="#project-dna"><strong>🎛️ Project DNA</strong></a> •
-	<a href="#contribute"><strong>🤝 Contribute</strong></a> •
-	<a href="#values"><strong>💡 Values</strong></a> •
-	<a href="#whats-next"><strong>📡 What's Next</strong></a>
+	<a href="#what-is-opengizmo"><strong>What is OpenGizmo?</strong></a> •
+	<a href="#what-lives-here"><strong>What Lives Here</strong></a> •
+	<a href="#why-esp32"><strong>Why ESP32?</strong></a> •
+	<a href="#project-dna"><strong>Project DNA</strong></a> •
+	<a href="#contribute"><strong>Contribute</strong></a> •
+	<a href="#values"><strong>Values</strong></a> •
+	<a href="#whats-next"><strong>What's Next</strong></a>
 </p>
 
 </div>
