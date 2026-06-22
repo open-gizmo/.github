@@ -117,8 +117,6 @@ More projects, experiments, and maker-friendly resources will land here as the c
 
 ---
 
-<br/>
-
 <p align="center">
 	<img src="https://raw.githubusercontent.com/open-gizmo/.github/main/profile/images/open-gizmo-logo-with-text.min.png" alt="OpenGizmo" width="200">
 	<br/>
