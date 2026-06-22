@@ -1,12 +1,12 @@
 <div align="center">
 
 <p>
-	<img src="images/open-gizmo-logo-with-text.min.png" alt="OpenGizmo" width="420">
+	<img src="https://raw.githubusercontent.com/open-gizmo/.github/main/profile/images/open-gizmo-logo-with-text.min.png" alt="OpenGizmo" width="420">
 </p>
 
-### Open hardware projects with a practical streak
+### Real projects. Real hardware. Real fun.
 
-A small corner of the internet for ESP32 builds that are useful, remixable, and actually fun to put on a desk, wall, or workbench.
+A small corner of the internet for ESP32 builds that are useful, remixable, and actually fun to use.
 
 <p>
 	<a href="https://opengizmo.dev"><img alt="Website" src="https://img.shields.io/badge/website-opengizmo.dev-111111?logo=googlechrome&logoColor=white"></a>
@@ -115,7 +115,14 @@ If you want to help shape the direction, start by exploring the projects, openin
 
 More projects, experiments, and maker-friendly resources will land here as the collection grows. Expect a mix of firmware, connected hardware, practical automations, and small builds with personality.
 
+---
+
+<br/>
+
 <p align="center">
-	<strong>Open source hardware, built with intent.</strong><br>
-	<sub>ESP32 powered. Maker approved. Easy to remix.</sub>
+	<img src="https://raw.githubusercontent.com/open-gizmo/.github/main/profile/images/open-gizmo-logo-with-text.min.png" alt="OpenGizmo" width="200">
+	<br/>
+	<strong>Real projects. Real hardware. Real fun.</strong>
+	<br/>
+	<sub>A small corner of the internet for ESP32 builds that are useful, remixable, and actually fun to use.</sub>
 </p>
