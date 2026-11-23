@@ -26,6 +26,7 @@ A small corner of the internet for ESP32 builds that are useful, remixable, and 
 
 <p>
 	<a href="#what-is-opengizmo"><strong>What is OpenGizmo?</strong></a> •
+	<a href="#the-gizmos"><strong>The Gizmos</strong></a> •
 	<a href="#what-lives-here"><strong>What Lives Here</strong></a> •
 	<a href="#why-esp32"><strong>Why ESP32?</strong></a> •
 	<a href="#project-dna"><strong>Project DNA</strong></a> •
@@ -49,6 +50,20 @@ This is where you can expect:
 - Sensors, displays, and controllers that solve small real problems
 - Buildable ideas that are easy to fork, tweak, and improve
 - Documentation that respects the time of the person reading it
+
+<a id="the-gizmos"></a>
+## 🧰 The Gizmos
+
+Each one comes with its firmware, a web app built in to set it up from your phone, and a page on [opengizmo.dev](https://opengizmo.dev) that flashes it from the browser. Most have a 3D-printed enclosure too.
+
+| Gizmo | What it does | Board | Links |
+| --- | --- | --- | --- |
+| 💰 **Gizmo Ticker** | A real-time crypto display on a MAX7219 LED matrix | XIAO ESP32-S3 | [Build it](https://opengizmo.dev/projects/gizmo-ticker) · [Code](https://github.com/open-gizmo/gizmo-ticker) |
+| 🔕 **Gizmo Reolink Switch** | One button to leave home without triggering your own Reolink cameras | XIAO ESP32-S3 | [Build it](https://opengizmo.dev/projects/gizmo-reolink-switch) · [Code](https://github.com/open-gizmo/gizmo-reolink-switch) |
+| 📷 **Gizmo Camera** | A Wi-Fi snapshot camera that people and AI agents can look through | ESP32-CAM | [Build it](https://opengizmo.dev/projects/gizmo-camera) · [Code](https://github.com/open-gizmo/gizmo-camera) |
+| 🛩️ **Gizmo Sky Radar** | A live plane radar for your desk, on a round display | XIAO ESP32-S3 | [Build it](https://opengizmo.dev/projects/gizmo-sky-radar) · [Code](https://github.com/open-gizmo/gizmo-sky-radar) |
+
+They share their building blocks in [gizmo-common](https://github.com/open-gizmo/gizmo-common): the Wi-Fi setup, the device API and the web app layer.
 
 <a id="what-lives-here"></a>
 ## 🔍 What Lives Here
