@@ -62,6 +62,7 @@ Each one comes with its firmware, a web app built in to set it up from your phon
 | 🔕 **Gizmo Reolink Switch** | One button to leave home without triggering your own Reolink cameras | XIAO ESP32-S3 | [Build it](https://opengizmo.dev/projects/gizmo-reolink-switch) · [Code](https://github.com/open-gizmo/gizmo-reolink-switch) |
 | 📷 **Gizmo Camera** | A Wi-Fi snapshot camera that people and AI agents can look through | ESP32-CAM | [Build it](https://opengizmo.dev/projects/gizmo-camera) · [Code](https://github.com/open-gizmo/gizmo-camera) |
 | 🛩️ **Gizmo Sky Radar** | A live plane radar for your desk, on a round display | XIAO ESP32-S3 | [Build it](https://opengizmo.dev/projects/gizmo-sky-radar) · [Code](https://github.com/open-gizmo/gizmo-sky-radar) |
+| 🐦 **Gizmo Birdhouse** | A nest box that photographs every bird that comes in | ESP32-CAM | [Build it](https://opengizmo.dev/projects/gizmo-birdhouse) · [Code](https://github.com/open-gizmo/gizmo-birdhouse) |
 
 They share their building blocks in [gizmo-common](https://github.com/open-gizmo/gizmo-common): the Wi-Fi setup, the device API and the web app layer.
 
